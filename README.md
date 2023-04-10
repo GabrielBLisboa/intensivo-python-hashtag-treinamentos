@@ -1,3 +1,1 @@
-- Treinamento básico de <b> Python </b> aliado a conceitos como automação de processos e Web Scrapping.
-
-- Foram utilizados frameworks como selenium e bibliotecas como pandas, seaborn e sklearn.
+- Treinamento básico de automação de processos, Data Science e Web Scrapping utilizando <b> Python </b> e frameworks como o selenium e bibliotecas como pandas, seaborn e sklearn.
